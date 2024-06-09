@@ -1,0 +1,5 @@
+cd path/to/your/repository
+echo 'print("Hello, World!")' > hello.py
+git add hello.py
+git commit -m "Add hello.py that prints Hello, World!"
+git push origin main
